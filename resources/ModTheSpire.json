@@ -1,0 +1,12 @@
+{
+  "modid": "SwashMod",
+  "name": "The Swashbuckler",
+  "author_list": ["Half","Gremious"],
+  "description": "A swashbuckler character mod",
+  "version": "0.1",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}
+
